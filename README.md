@@ -2,4 +2,4 @@
 
 Go to Spinners Galore by clicking the link below!
 
-[Go!](SpinnersGalore.html)
+[Go!](docs/SpinnersGalore.html)
